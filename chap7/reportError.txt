@@ -1,0 +1,2 @@
+linesCount = 108
+errorLinesCount = 5
